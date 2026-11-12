@@ -1,0 +1,9 @@
+**/.git
+**/.gitignore
+**/.vs
+**/.vscode
+**/bin
+**/obj
+**/Properties/launchSettings.json
+**/*.md
+**/*.http

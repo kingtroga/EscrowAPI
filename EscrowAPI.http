@@ -1,0 +1,6 @@
+@EscrowAPI_HostAddress = http://localhost:5285
+
+GET {{EscrowAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
